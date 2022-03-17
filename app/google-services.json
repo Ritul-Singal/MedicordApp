@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "655278550042",
-    "firebase_url": "https://medicord-6d8c1-default-rtdb.firebaseio.com",
-    "project_id": "medicord-6d8c1",
-    "storage_bucket": "medicord-6d8c1.appspot.com"
+    "project_number": "404355045818",
+    "project_id": "medicord-1d30f",
+    "storage_bucket": "medicord-1d30f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:655278550042:android:d969282cb36642d7abf5a3",
+        "mobilesdk_app_id": "1:404355045818:android:797e3bfc72ab104cdd2583",
         "android_client_info": {
-          "package_name": "com.example.medicord"
+          "package_name": "com.example.medicordapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+          "client_id": "404355045818-1bdfqfk3n5ma5rsj6js78nsk81csui99.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmomL1hMUQpl8Jbw1noFpj8UfvGA2FynA"
+          "current_key": "AIzaSyBA9LuKs7qqmUD9tABT5ZcWuFQ0hust-yE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+              "client_id": "404355045818-1bdfqfk3n5ma5rsj6js78nsk81csui99.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -37,27 +36,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:655278550042:android:69916c9181cf1b3eabf5a3",
+        "mobilesdk_app_id": "1:404355045818:android:a2ef436388a2fc5edd2583",
         "android_client_info": {
-          "package_name": "com.example.medicordapp"
+          "package_name": "com.example.medicordseller"
         }
       },
       "oauth_client": [
         {
-          "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+          "client_id": "404355045818-1bdfqfk3n5ma5rsj6js78nsk81csui99.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmomL1hMUQpl8Jbw1noFpj8UfvGA2FynA"
+          "current_key": "AIzaSyBA9LuKs7qqmUD9tABT5ZcWuFQ0hust-yE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+              "client_id": "404355045818-1bdfqfk3n5ma5rsj6js78nsk81csui99.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
