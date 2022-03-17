@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "655278550042",
+    "firebase_url": "https://medicord-6d8c1-default-rtdb.firebaseio.com",
+    "project_id": "medicord-6d8c1",
+    "storage_bucket": "medicord-6d8c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655278550042:android:d969282cb36642d7abf5a3",
+        "android_client_info": {
+          "package_name": "com.example.medicord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmomL1hMUQpl8Jbw1noFpj8UfvGA2FynA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655278550042:android:69916c9181cf1b3eabf5a3",
+        "android_client_info": {
+          "package_name": "com.example.medicordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmomL1hMUQpl8Jbw1noFpj8UfvGA2FynA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
